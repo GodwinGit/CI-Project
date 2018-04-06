@@ -1,0 +1,4 @@
+ 07:34:36 up  2:23,  2 users,  load average: 0.04, 0.09, 0.13
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+vagrant  :0       :0               05:11   ?xdm?  16:25   0.15s init --user
+vagrant  pts/14   10.0.2.2         05:12    4.00s  0.34s  0.04s script 2
